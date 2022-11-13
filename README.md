@@ -3,10 +3,13 @@
 - 🌱 I’m currently learning JavaScript and Phyton.
 
 freeCodeCamp certifications:
+
 -JavaScript: https://www.freecodecamp.org/certification/SantiagoT/javascript-algorithms-and-data-structures
 
 Proyects:
+
 Estudio it's an app based on freeCodeCamp, it contains information in format of courses, that i'm studying for my career. It also has questions that makes it more interactive.
+
 I’m currently working on adding more information while i'm studying...
 
 https://estudio-eight.vercel.app

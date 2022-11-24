@@ -8,7 +8,7 @@ freeCodeCamp certifications:
 
 Proyects:
 
-Estudio it's an app based on freeCodeCamp, it contains information in format of courses, that i'm studying for my career. It also has questions that makes it more interactive.
+Estudio it's an app based on freeCodeCamp, it contains information in format of courses, which i'm studying for my career. It also has questions that make it more interactive.
 
 I’m currently working on adding more information while i'm studying...
 
